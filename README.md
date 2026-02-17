@@ -40,6 +40,9 @@ Processing Unit
   - Runs the main control software  
   - Handles sensor fusion, navigation logic, and computer vision  
   - Programmed entirely in Python
+ 
+Build Hat
+  -Controls Spike Prime's Engines
 
 Sensors
 - ToF (Time‑of‑Flight) Sensors
