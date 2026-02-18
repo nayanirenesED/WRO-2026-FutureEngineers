@@ -98,5 +98,3 @@ Technical Goals
 - Learn to collaborate effectively under real competition pressure  
 - Represent Puerto Rico with pride and innovation  
 - Enjoy the process, learn from mistakes, and keep improving
-
-First Model
